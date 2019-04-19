@@ -1,1 +1,1 @@
-# game_of_thrones_viz
+# Game of Thrones Data Visualization
